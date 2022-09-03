@@ -1,0 +1,7 @@
+<library path="art_drive_controller">
+  <class name="art_drive_controller/ArtDriveController" type="art_drive_controller::ArtDriveController" base_class_type="controller_interface::ControllerInterface">
+  <description>
+    The articulated drive controller transforms linear and angular velocity messages into signals for each steerable axles, articulated joint and wheel(s) for an articulated drive robot.
+  </description>
+  </class>
+</library>
